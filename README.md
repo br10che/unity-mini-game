@@ -16,4 +16,8 @@ This project was created to practice core gameplay mechanics, scripting in C#, a
 - C#
 
 ## Screenshots
-(Add your screenshots here)
+<img width="884" height="488" alt="sc1" src="https://github.com/user-attachments/assets/04f05982-aed3-4649-bd19-708019c7009a" />
+
+<img width="882" height="487" alt="sc2" src="https://github.com/user-attachments/assets/0ec7a966-6be3-45cc-baee-7b89bb122380" />
+
+<img width="881" height="485" alt="sc3" src="https://github.com/user-attachments/assets/15455d5f-2708-4020-bd1a-d4760ccd1643" />
